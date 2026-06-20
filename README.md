@@ -59,10 +59,9 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+- LinkedIn: www.linkedin.com/in/oshadhax
 - Portfolio: https://yourwebsite.com
-- Email: your.email@example.com
-
+- Email: oshadhakalhara947@gmail.com
 ---
 
 ## 💭 Favorite Quote
