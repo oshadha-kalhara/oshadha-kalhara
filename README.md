@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm Oshadha Kalhara
 
 ### 🚀 Software Developer | Problem Solver | Tech Enthusiast
 
